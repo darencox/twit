@@ -10,7 +10,7 @@ padding:0;
 margin:0;
 }
 header {
-font-size:64px;
+font-size:32px;
 padding:10px;
 }
 #podCastScroll {
@@ -19,28 +19,19 @@ height:500px;
 }
 
 .podcastItem {
-height:600px;
-width600px;
+width:400px;
 margin:25px;
 float:left;
 }
+.podcastItem img {
+width:400px;
+}
 .title {
 width: 100%;
-font-size: 35px;
+font-size: 20px;
 }
 
     .title a {
     color:#fff;
     text-decoration:none;
     }
-
-
-
-
-
-
-
-
-
-
-
