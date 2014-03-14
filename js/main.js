@@ -1,14 +1,12 @@
-var bob;
 $(function () {
     // Handler for .ready() called.
 
-    var url ='proxy.php?url=http://feeds.twit.tv/ww_video_hd.xml';
+    var url = 'proxy.php?url=http://feeds.twit.tv/ww_video_large.xml';
   
 
     $.get(url, function (data) {
         var image = 'http://feeds.twit.tv/coverart/ww600videohi.jpg'
         console.log(data)
-        bob = data;
 
         $(data).find('item').each(function () {
 
