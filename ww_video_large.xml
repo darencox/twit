@@ -1,0 +1,652 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" version="2.0">
+<channel><title>Windows Weekly (Video-HI)</title>
+<link>http://twit.tv/ww</link>
+<generator>TWiT Feed Generator v2.3</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<language>en-US</language>
+<copyright>
+This work is licensed under a Creative Commons License - Attribution-NonCommercial-ShareAlike - http://creativecommons.org/licenses/by-nc-sa/3.0/
+</copyright>
+<creativeCommons:license>http://creativecommons.org/licenses/by-nc-sa/3.0/</creativeCommons:license>
+<managingEditor>leo@twit.tv (Leo Laporte)</managingEditor>
+<webMaster>leo@twit.tv (Leo Laporte)</webMaster>
+<ttl>720</ttl>
+<sy:updatePeriod>weekly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<lastBuildDate>Wed, 13 Aug 2014 18:34:56 -0700</lastBuildDate>
+<pubDate>Wed, 13 Aug 2014 18:34:56 -0700</pubDate>
+<category>Technology</category>
+<image>
+<title>Windows Weekly (Video-HI)</title>
+<url>http://feeds.twit.tv/coverart/ww144videohi.jpg</url>
+<link>http://twit.tv/ww</link>
+<width>144</width>
+<height>144</height>
+</image>
+<atom:link href="http://feeds.twit.tv/ww_video_large.xml" type="application/rss+xml" rel="self"/>
+<itunes:author>TWiT</itunes:author>
+<itunes:subtitle>Each week, Windows expert Paul Thurrott of the SuperSite for Windows and Mary Jo Foley of All About Microsoft talk about Windows 8 and all things Microsoft.</itunes:subtitle>
+<itunes:summary>
+A weekly look at all things Microsoft, including Windows, Windows Phone, Office, Xbox, and more, from two of the foremost Windows watchers in the world, Paul Thurrott of the Super Site for Windows and Mary Jo Foley of All About Microsoft.
+Records live at http://live.twit.tv/ every Wednesday at 11:00am PT/2:00pm ET.
+</itunes:summary>
+<description>
+A weekly look at all things Microsoft, including Windows, Windows Phone, Office, Xbox, and more, from two of the foremost Windows watchers in the world, Paul Thurrott of the Super Site for Windows and Mary Jo Foley of All About Microsoft.
+Records live at http://live.twit.tv/ every Wednesday at 11:00am PT/2:00pm ET.
+</description>
+<itunes:keywords>
+TWiT, TechTV, Leo Laporte, Paul Thurrott, Mary Jo Foley, Windows, Microsoft, 7, Windows Weekly
+</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:owner>
+<itunes:name>Leo Laporte</itunes:name>
+<itunes:email>leo@twit.tv</itunes:email>
+</itunes:owner>
+<itunes:block>no</itunes:block>
+<itunes:image href="http://feeds.twit.tv/coverart/ww1400videohi.jpg" />
+<itunes:category text="Technology">
+<itunes:category text="Tech News"/>
+</itunes:category>
+<itunes:category text="Technology">
+<itunes:category text="Gadgets"/>
+</itunes:category>
+<item>
+<title>WW 375: Use Your Selfie Stick</title>
+<pubDate>Wed, 13 Aug 2014 12:12:56 -0700</pubDate>
+<comments>http://twit.tv/ww/375</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<description>
+<![CDATA[
+<p><img src="http://feeds.twit.tv/coverart/ww144videohi.jpg" align="right" hspace="20" vspace="20" border="0" title="Windows Weekly" alt="Windows Weekly"/></p><p><strong>Hosts:</strong> <a href="http://allaboutmicrosoft.com/">Mary Jo Foley</a> and <a href="http://leoville.com/">Leo Laporte</a></p>
+ 
+<p>Dissecting the Windows Phone 8.1 Update 1, Cortana could be part of Windows Threshold, Microsoft to drop support for older versions of IE and XBOX One holiday bundles revealed.</p>
+ 
+<p><strong>Guest:</strong> <a href="https://twitter.com/Daniel_Rubino">Daniel Rubino</a></p>
+ 
+<p>Download or subscribe to this show at <a href="http://twit.tv/ww">twit.tv/ww</a>.</p>
+ 
+<p>We invite you to read, add to, and amend our <a href="http://wiki.twit.tv/wiki/Windows_Weekly_375">show notes</a>.</p>
+ 
+<p>Check out Mary Jo's blog at the <a href="http://allaboutmicrosoft.com/">AllAboutMicrosoft.com</a>.</p>
+ 
+<p>Thanks to <a href="http://www.cachefly.com/">Cachefly</a> for the bandwidth for this show. The Windows Weekly theme music is courtesy of <a href="http://penmachine.com/">Derek K. Miller</a>.</p>
+ 
+<p><strong>Running time:</strong> 1:49:29</p>
+]]>
+</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0375/ww0375_h264m_864x480_500.mp4</guid>
+<itunes:subtitle>Dissecting the Windows Phone 8.1 Update 1</itunes:subtitle>
+<itunes:summary>
+Hosts: Mary Jo Foley and Leo Laporte
+ 
+Dissecting the Windows Phone 8.1 Update 1, Cortana could be part of Windows Threshold, Microsoft to drop support for older versions of IE and XBOX One holiday bundles revealed.
+ 
+Guest: Daniel Rubino
+ 
+Download or subscribe to this show at twit.tv/ww.
+ 
+We invite you to read, add to, and amend our show notes.
+ 
+Check out Mary Jo's blog at the AllAboutMicrosoft.com.
+ 
+Thanks to Cachefly for the bandwidth for this show. The Windows Weekly theme music is courtesy of Derek K. Miller.
+ 
+Running time: 1:49:29
+</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:01:01</itunes:duration>
+<link>http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0375/ww0375_h264m_864x480_500.mp4</link>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0375/ww0375_h264m_864x480_500.mp4" length="444503081" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0375/ww0375_h264m_864x480_500.mp4" fileSize="444503081" type="video/mp4" medium="video">
+<media:credit role="actor">Leo Laporte</media:credit>
+<media:credit role="actor">Mary Jo Foley</media:credit>
+<media:credit role="producer">Tony Wang</media:credit>
+<media:credit role="director">Leo Laporte</media:credit>
+<media:credit role="editor">Zachary Smith</media:credit>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:icra">r (cz 1 lz 1 nz 1 vz 1 oz 1)</media:rating>
+</media:content>
+</item>
+<item>
+<title>WW 374: Cover Your Ears Isabella</title>
+<pubDate>Wed, 6 Aug 2014 15:19:31 -0700</pubDate>
+<comments>http://twit.tv/ww/374</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<description>
+<![CDATA[
+<p><img src="http://feeds.twit.tv/coverart/ww144videohi.jpg" align="right" hspace="20" vspace="20" border="0" title="Windows Weekly" alt="Windows Weekly"/></p><p><strong>Hosts:</strong> <a href="http://winsupersite.com/">Paul Thurrott</a>, <a href="http://allaboutmicrosoft.com/">Mary Jo Foley</a> and <a href="http://leoville.com/">Leo Laporte</a></p>
+ 
+<p>Windows Phone 8.1 update 1 Available, Windows 8.1 Update 2, more about the Surface Pro 3, China vs. Microsoft Round Two and more. </p>
+ 
+<p>Download or subscribe to this show at <a href="http://twit.tv/ww">twit.tv/ww</a>.</p>
+ 
+<p>We invite you to read, add to, and amend our <a href="http://wiki.twit.tv/wiki/Windows_Weekly_374">show notes</a>.</p>
+ 
+<p>Check out Paul's blog at the <a href="http://winsupersite.com/">SuperSite for Windows</a>.</p>
+ 
+<p>Check out Mary Jo's blog at the <a href="http://allaboutmicrosoft.com/">AllAboutMicrosoft.com</a>.</p>
+ 
+<p>Thanks to <a href="http://www.cachefly.com/">Cachefly</a> for the bandwidth for this show. The Windows Weekly theme music is courtesy of <a href="http://penmachine.com/">Derek K. Miller</a>.</p>
+ 
+<p><strong>Running time:</strong> 1:31:29</p>
+]]>
+</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0374/ww0374_h264m_864x480_500.mp4</guid>
+<itunes:subtitle>Microsoft Windows 8.1 update 2</itunes:subtitle>
+<itunes:summary>
+Hosts: Paul Thurrott, Mary Jo Foley and Leo Laporte
+ 
+Windows Phone 8.1 update 1 Available, Windows 8.1 Update 2, more about the Surface Pro 3, China vs. Microsoft Round Two and more. 
+ 
+Download or subscribe to this show at twit.tv/ww.
+ 
+We invite you to read, add to, and amend our show notes.
+ 
+Check out Paul's blog at the SuperSite for Windows.
+ 
+Check out Mary Jo's blog at the AllAboutMicrosoft.com.
+ 
+Thanks to Cachefly for the bandwidth for this show. The Windows Weekly theme music is courtesy of Derek K. Miller.
+ 
+Running time: 1:31:29
+</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:31:29</itunes:duration>
+<link>http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0374/ww0374_h264m_864x480_500.mp4</link>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0374/ww0374_h264m_864x480_500.mp4" length="358277291" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0374/ww0374_h264m_864x480_500.mp4" fileSize="358277291" type="video/mp4" medium="video">
+<media:credit role="actor">Leo Laporte</media:credit>
+<media:credit role="actor">Mary Jo Foley</media:credit>
+<media:credit role="actor">Paul Thurrott</media:credit>
+<media:credit role="producer">Tony Wang</media:credit>
+<media:credit role="director">Leo Laporte</media:credit>
+<media:credit role="editor">Zachary Smith</media:credit>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:icra">r (cz 1 lz 1 nz 1 vz 1 oz 1)</media:rating>
+</media:content>
+</item>
+<item>
+<title>WW 373: Sausage Fest</title>
+<pubDate>Wed, 30 Jul 2014 16:17:49 -0700</pubDate>
+<comments>http://twit.tv/ww/373</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<description>
+<![CDATA[
+<p><img src="http://feeds.twit.tv/coverart/ww144videohi.jpg" align="right" hspace="20" vspace="20" border="0" title="Windows Weekly" alt="Windows Weekly"/></p><p><strong>Hosts:</strong> <a href="http://winsupersite.com/">Paul Thurrott</a> and <a href="http://leoville.com/">Leo Laporte</a></p>
+ 
+<p>Windows Phone 8.1 update 1, new Lumia announced, Paul spends a night with Surface Pro 3, new Microsoft store locations, China vs. Microsoft, Ballmer buys Clippers for $2 billion, and more</p>
+ 
+<p>Download or subscribe to this show at <a href="http://twit.tv/ww">twit.tv/ww</a>.</p>
+ 
+<p>We invite you to read, add to, and amend our <a href="http://wiki.twit.tv/wiki/Windows_Weekly_373">show notes</a>.</p>
+ 
+<p>Check out Paul's blog at the <a href="http://winsupersite.com/">SuperSite for Windows</a>.</p>
+ 
+<p>Check out Mary Jo's blog at the <a href="http://allaboutmicrosoft.com/">AllAboutMicrosoft.com</a>.</p>
+ 
+<p>Thanks to <a href="http://www.cachefly.com/">Cachefly</a> for the bandwidth for this show. The Windows Weekly theme music is courtesy of <a href="http://penmachine.com/">Derek K. Miller</a>.</p>
+ 
+<p><strong>Running time:</strong> 2:19:33</p>
+]]>
+</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0373/ww0373_h264m_864x480_500.mp4</guid>
+<itunes:subtitle>Windows Phone 8.1 update 1</itunes:subtitle>
+<itunes:summary>
+Hosts: Paul Thurrott and Leo Laporte
+ 
+Windows Phone 8.1 update 1, new Lumia announced, Paul spends a night with Surface Pro 3, new Microsoft store locations, China vs. Microsoft, Ballmer buys Clippers for $2 billion, and more
+ 
+Download or subscribe to this show at twit.tv/ww.
+ 
+We invite you to read, add to, and amend our show notes.
+ 
+Check out Paul's blog at the SuperSite for Windows.
+ 
+Check out Mary Jo's blog at the AllAboutMicrosoft.com.
+ 
+Thanks to Cachefly for the bandwidth for this show. The Windows Weekly theme music is courtesy of Derek K. Miller.
+ 
+Running time: 2:19:33
+</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>2:19:33</itunes:duration>
+<link>http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0373/ww0373_h264m_864x480_500.mp4</link>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0373/ww0373_h264m_864x480_500.mp4" length="436010881" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0373/ww0373_h264m_864x480_500.mp4" fileSize="436010881" type="video/mp4" medium="video">
+<media:credit role="actor">Leo Laporte</media:credit>
+<media:credit role="actor">Paul Thurrott</media:credit>
+<media:credit role="producer">Tony Wang</media:credit>
+<media:credit role="director">Leo Laporte</media:credit>
+<media:credit role="editor">Tony Wang</media:credit>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:icra">r (cz 1 lz 1 nz 1 vz 1 oz 1)</media:rating>
+</media:content>
+</item>
+<item>
+<title>WW 372: Let the Bezel Be Big</title>
+<pubDate>Wed, 23 Jul 2014 16:29:06 -0700</pubDate>
+<comments>http://twit.tv/ww/372</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<description>
+<![CDATA[
+<p><img src="http://feeds.twit.tv/coverart/ww144videohi.jpg" align="right" hspace="20" vspace="20" border="0" title="Windows Weekly" alt="Windows Weekly"/></p><p><strong>Hosts:</strong> <a href="http://winsupersite.com/">Paul Thurrott</a>, <a href="http://allaboutmicrosoft.com/">Mary Jo Foley</a> and <a href="http://leoville.com/">Leo Laporte</a></p>
+ 
+<p>Microsoft layoffs and the meaning of 'One Windows.'</p>
+ 
+<p>Download or subscribe to this show at <a href="http://twit.tv/ww">twit.tv/ww</a>.</p>
+ 
+<p>We invite you to read, add to, and amend our <a href="http://wiki.twit.tv/wiki/Windows_Weekly_372">show notes</a>.</p>
+ 
+<p>Check out Paul's blog at the <a href="http://winsupersite.com/">SuperSite for Windows</a>.</p>
+ 
+<p>Check out Mary Jo's blog at the <a href="http://allaboutmicrosoft.com/">AllAboutMicrosoft.com</a>.</p>
+ 
+<p>Thanks to <a href="http://www.cachefly.com/">Cachefly</a> for the bandwidth for this show. The Windows Weekly theme music is courtesy of <a href="http://penmachine.com/">Derek K. Miller</a>.</p>
+ 
+<p><strong>Running time:</strong> 1:50:16</p>
+]]>
+</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0372/ww0372_h264m_864x480_500.mp4</guid>
+<itunes:subtitle>What does 'One Windows' mean?</itunes:subtitle>
+<itunes:summary>
+Hosts: Paul Thurrott, Mary Jo Foley and Leo Laporte
+ 
+Microsoft layoffs and the meaning of 'One Windows.'
+ 
+Download or subscribe to this show at twit.tv/ww.
+ 
+We invite you to read, add to, and amend our show notes.
+ 
+Check out Paul's blog at the SuperSite for Windows.
+ 
+Check out Mary Jo's blog at the AllAboutMicrosoft.com.
+ 
+Thanks to Cachefly for the bandwidth for this show. The Windows Weekly theme music is courtesy of Derek K. Miller.
+ 
+Running time: 1:50:16
+</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:50:16</itunes:duration>
+<link>http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0372/ww0372_h264m_864x480_500.mp4</link>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0372/ww0372_h264m_864x480_500.mp4" length="446772176" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0372/ww0372_h264m_864x480_500.mp4" fileSize="446772176" type="video/mp4" medium="video">
+<media:credit role="actor">Leo Laporte</media:credit>
+<media:credit role="actor">Mary Jo Foley</media:credit>
+<media:credit role="actor">Paul Thurrott</media:credit>
+<media:credit role="producer">Tony Wang</media:credit>
+<media:credit role="director">Leo Laporte</media:credit>
+<media:credit role="editor">Josh Windisch</media:credit>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:icra">r (cz 1 lz 1 nz 1 vz 1 oz 1)</media:rating>
+</media:content>
+</item>
+<item>
+<title>WW 371: Microsoft's Worldwide Partner Conference</title>
+<pubDate>Wed, 16 Jul 2014 12:44:33 -0700</pubDate>
+<comments>http://twit.tv/ww/371</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<description>
+<![CDATA[
+<p><img src="http://feeds.twit.tv/coverart/ww144videohi.jpg" align="right" hspace="20" vspace="20" border="0" title="Windows Weekly" alt="Windows Weekly"/></p><p><strong>Hosts:</strong> <a href="http://winsupersite.com/">Paul Thurrott</a>, <a href="http://allaboutmicrosoft.com/">Mary Jo Foley</a> and <a href="http://leoville.com/">Leo Laporte</a></p>
+ 
+<p>Worldwide Partner Conference in Washington DC, Microsoft layoffs looming, IBM and Apple create a MobileFirst partnership aimed at enterprise users, Threshold: What Microsoft did, Windows Phone 8.1 and Cyan start rolling out worldwide, and more.</p>
+ 
+<p>Download or subscribe to this show at <a href="http://twit.tv/ww">twit.tv/ww</a>.</p>
+ 
+<p>We invite you to read, add to, and amend our <a href="http://wiki.twit.tv/wiki/Windows_Weekly_371">show notes</a>.</p>
+ 
+<p>Check out Paul's blog at the <a href="http://winsupersite.com/">SuperSite for Windows</a>.</p>
+ 
+<p>Check out Mary Jo's blog at the <a href="http://allaboutmicrosoft.com/">AllAboutMicrosoft.com</a>.</p>
+ 
+<p>Thanks to <a href="http://www.cachefly.com/">Cachefly</a> for the bandwidth for this show. The Windows Weekly theme music is courtesy of <a href="http://penmachine.com/">Derek K. Miller</a>.</p>
+ 
+<p><strong>Running time:</strong> 1:48:55</p>
+]]>
+</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0371/ww0371_h264m_864x480_500.mp4</guid>
+<itunes:subtitle>Microsoft layoffs looming</itunes:subtitle>
+<itunes:summary>
+Hosts: Paul Thurrott, Mary Jo Foley and Leo Laporte
+ 
+Worldwide Partner Conference in Washington DC, Microsoft layoffs looming, IBM and Apple create a MobileFirst partnership aimed at enterprise users, Threshold: What Microsoft did, Windows Phone 8.1 and Cyan start rolling out worldwide, and more.
+ 
+Download or subscribe to this show at twit.tv/ww.
+ 
+We invite you to read, add to, and amend our show notes.
+ 
+Check out Paul's blog at the SuperSite for Windows.
+ 
+Check out Mary Jo's blog at the AllAboutMicrosoft.com.
+ 
+Thanks to Cachefly for the bandwidth for this show. The Windows Weekly theme music is courtesy of Derek K. Miller.
+ 
+Running time: 1:48:55
+</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:01:01</itunes:duration>
+<link>http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0371/ww0371_h264m_864x480_500.mp4</link>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0371/ww0371_h264m_864x480_500.mp4" length="494147917" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0371/ww0371_h264m_864x480_500.mp4" fileSize="494147917" type="video/mp4" medium="video">
+<media:credit role="actor">Leo Laporte</media:credit>
+<media:credit role="actor">Mary Jo Foley</media:credit>
+<media:credit role="actor">Paul Thurrott</media:credit>
+<media:credit role="producer">Tony Wang</media:credit>
+<media:credit role="director">Leo Laporte</media:credit>
+<media:credit role="editor">Tony Wang</media:credit>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:icra">r (cz 1 lz 1 nz 1 vz 1 oz 1)</media:rating>
+</media:content>
+</item>
+<item>
+<title>WW 370: Office 365 SKU-a-palooza</title>
+<pubDate>Wed, 9 Jul 2014 15:26:26 -0700</pubDate>
+<comments>http://twit.tv/ww/370</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<description>
+<![CDATA[
+<p><img src="http://feeds.twit.tv/coverart/ww144videohi.jpg" align="right" hspace="20" vspace="20" border="0" title="Windows Weekly" alt="Windows Weekly"/></p><p><strong>Hosts:</strong> <a href="http://winsupersite.com/">Paul Thurrott</a>, <a href="http://allaboutmicrosoft.com/">Mary Jo Foley</a> and <a href="http://leoville.com/">Leo Laporte</a></p>
+ 
+<p>The future of Nokia X phones, Android powered Lumia phones, Surface firmware update, Microsoft Support deadlines, Office 365 SKUs, and more </p>
+ 
+<p>Download or subscribe to this show at <a href="http://twit.tv/ww">twit.tv/ww</a>.</p>
+ 
+<p>We invite you to read, add to, and amend our <a href="http://wiki.twit.tv/wiki/Windows_Weekly_370">show notes</a>.</p>
+ 
+<p>Check out Paul's blog at the <a href="http://winsupersite.com/">SuperSite for Windows</a>.</p>
+ 
+<p>Check out Mary Jo's blog at the <a href="http://allaboutmicrosoft.com/">AllAboutMicrosoft.com</a>.</p>
+ 
+<p>Thanks to <a href="http://www.cachefly.com/">Cachefly</a> for the bandwidth for this show. The Windows Weekly theme music is courtesy of <a href="http://penmachine.com/">Derek K. Miller</a>.</p>
+ 
+<p><strong>Running time:</strong> 1:50:05</p>
+]]>
+</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0370/ww0370_h264m_864x480_500.mp4</guid>
+<itunes:subtitle>Android-powered Lumia phone?</itunes:subtitle>
+<itunes:summary>
+Hosts: Paul Thurrott, Mary Jo Foley and Leo Laporte
+ 
+The future of Nokia X phones, Android powered Lumia phones, Surface firmware update, Microsoft Support deadlines, Office 365 SKUs, and more 
+ 
+Download or subscribe to this show at twit.tv/ww.
+ 
+We invite you to read, add to, and amend our show notes.
+ 
+Check out Paul's blog at the SuperSite for Windows.
+ 
+Check out Mary Jo's blog at the AllAboutMicrosoft.com.
+ 
+Thanks to Cachefly for the bandwidth for this show. The Windows Weekly theme music is courtesy of Derek K. Miller.
+ 
+Running time: 1:50:05
+</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:50:05</itunes:duration>
+<link>http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0370/ww0370_h264m_864x480_500.mp4</link>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0370/ww0370_h264m_864x480_500.mp4" length="498365612" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0370/ww0370_h264m_864x480_500.mp4" fileSize="498365612" type="video/mp4" medium="video">
+<media:credit role="actor">Mary Jo Foley</media:credit>
+<media:credit role="actor">Paul Thurrott</media:credit>
+<media:credit role="actor">Fr. Robert Ballecer, SJ</media:credit>
+<media:credit role="producer">Tony Wang</media:credit>
+<media:credit role="director">Alex Gumpel</media:credit>
+<media:credit role="editor">Tony Wang</media:credit>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:icra">r (cz 1 lz 1 nz 1 vz 1 oz 1)</media:rating>
+</media:content>
+</item>
+<item>
+<title>WW 369: Gozer Uses Scribd</title>
+<pubDate>Wed, 2 Jul 2014 15:14:33 -0700</pubDate>
+<comments>http://twit.tv/ww/369</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<description>
+<![CDATA[
+<p><img src="http://feeds.twit.tv/coverart/ww144videohi.jpg" align="right" hspace="20" vspace="20" border="0" title="Windows Weekly" alt="Windows Weekly"/></p><p><strong>Hosts:</strong> <a href="http://winsupersite.com/">Paul Thurrott</a>, <a href="http://allaboutmicrosoft.com/">Mary Jo Foley</a> and <a href="http://leoville.com/">Leo Laporte</a></p>
+ 
+<p>Windows Threshold rumors, SKUs, pricing, Nokiasoft branding challenge: Surface or Lumia, news bits, and more.</p>
+<p> </p>
+<p>Download or subscribe to this show at <a href="http://twit.tv/ww">twit.tv/ww</a>.</p>
+ 
+<p>We invite you to read, add to, and amend our <a href="http://wiki.twit.tv/wiki/Windows_Weekly_369">show notes</a>.</p>
+ 
+<p>Check out Paul's blog at the <a href="http://winsupersite.com/">SuperSite for Windows</a>.</p>
+ 
+<p>Check out Mary Jo's blog at the <a href="http://allaboutmicrosoft.com/">AllAboutMicrosoft.com</a>.</p>
+ 
+<p>Thanks to <a href="http://www.cachefly.com/">Cachefly</a> for the bandwidth for this show. The Windows Weekly theme music is courtesy of <a href="http://penmachine.com/">Derek K. Miller</a>.</p>
+ 
+<p><strong>Running time:</strong> </p>
+]]>
+</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0369/ww0369_h264m_864x480_500.mp4</guid>
+<itunes:subtitle>What we know about Windows Threshold </itunes:subtitle>
+<itunes:summary>
+Hosts: Paul Thurrott, Mary Jo Foley and Leo Laporte
+ 
+Windows Threshold rumors, SKUs, pricing, Nokiasoft branding challenge: Surface or Lumia, news bits, and more.
+ 
+Download or subscribe to this show at twit.tv/ww.
+ 
+We invite you to read, add to, and amend our show notes.
+ 
+Check out Paul's blog at the SuperSite for Windows.
+ 
+Check out Mary Jo's blog at the AllAboutMicrosoft.com.
+ 
+Thanks to Cachefly for the bandwidth for this show. The Windows Weekly theme music is courtesy of Derek K. Miller.
+ 
+Running time: 
+</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:50:03</itunes:duration>
+<link>http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0369/ww0369_h264m_864x480_500.mp4</link>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0369/ww0369_h264m_864x480_500.mp4" length="499260721" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0369/ww0369_h264m_864x480_500.mp4" fileSize="499260721" type="video/mp4" medium="video">
+<media:credit role="actor">Mary Jo Foley</media:credit>
+<media:credit role="actor">Paul Thurrott</media:credit>
+<media:credit role="actor">Fr. Robert Ballecer, SJ</media:credit>
+<media:credit role="producer">Tony Wang</media:credit>
+<media:credit role="director">Alex Gumpel</media:credit>
+<media:credit role="editor">Tony Wang</media:credit>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:icra">r (cz 1 lz 1 nz 1 vz 1 oz 1)</media:rating>
+</media:content>
+</item>
+<item>
+<title>WW 368: Rogue Rumor Mongers</title>
+<pubDate>Wed, 25 Jun 2014 17:32:47 -0700</pubDate>
+<comments>http://twit.tv/ww/368</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<description>
+<![CDATA[
+<p><img src="http://feeds.twit.tv/coverart/ww144videohi.jpg" align="right" hspace="20" vspace="20" border="0" title="Windows Weekly" alt="Windows Weekly"/></p><p><strong>Hosts:</strong> <a href="http://winsupersite.com/">Paul Thurrott</a>, <a href="http://allaboutmicrosoft.com/">Mary Jo Foley</a> and <a href="http://leoville.com/">Leo Laporte</a></p>
+ 
+<p>We dispel rumors, news from Google I/O, the next Microsoft phone will be Android based, and more.</p>
+<p> </p>
+<p>Download or subscribe to this show at <a href="http://twit.tv/ww">twit.tv/ww</a>.</p>
+ 
+<p>We invite you to read, add to, and amend our <a href="http://wiki.twit.tv/wiki/Windows_Weekly_368">show notes</a>.</p>
+ 
+<p>Check out Paul's blog at the <a href="http://winsupersite.com/">SuperSite for Windows</a>.</p>
+ 
+<p>Check out Mary Jo's blog at the <a href="http://allaboutmicrosoft.com/">AllAboutMicrosoft.com</a>.</p>
+ 
+<p>Thanks to <a href="http://www.cachefly.com/">Cachefly</a> for the bandwidth for this show. The Windows Weekly theme music is courtesy of <a href="http://penmachine.com/">Derek K. Miller</a>.</p>
+ 
+<p><strong>Running time:</strong> </p>
+]]>
+</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0368/ww0368_h264m_864x480_500.mp4</guid>
+<itunes:subtitle>Dispelling rumors and Google I/O.</itunes:subtitle>
+<itunes:summary>
+Hosts: Paul Thurrott, Mary Jo Foley and Leo Laporte
+ 
+We dispel rumors, news from Google I/O, the next Microsoft phone will be Android based, and more.
+ 
+Download or subscribe to this show at twit.tv/ww.
+ 
+We invite you to read, add to, and amend our show notes.
+ 
+Check out Paul's blog at the SuperSite for Windows.
+ 
+Check out Mary Jo's blog at the AllAboutMicrosoft.com.
+ 
+Thanks to Cachefly for the bandwidth for this show. The Windows Weekly theme music is courtesy of Derek K. Miller.
+ 
+Running time: 
+</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:49:19</itunes:duration>
+<link>http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0368/ww0368_h264m_864x480_500.mp4</link>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0368/ww0368_h264m_864x480_500.mp4" length="495899563" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0368/ww0368_h264m_864x480_500.mp4" fileSize="495899563" type="video/mp4" medium="video">
+<media:credit role="actor">Mary Jo Foley</media:credit>
+<media:credit role="actor">Leo Laporte</media:credit>
+<media:credit role="actor">Paul Thurrott</media:credit>
+<media:credit role="producer">Tony Wang</media:credit>
+<media:credit role="director">Leo Laporte</media:credit>
+<media:credit role="editor">Jason Howell</media:credit>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:icra">r (cz 1 lz 1 nz 1 vz 1 oz 1)</media:rating>
+</media:content>
+</item>
+<item>
+<title>WW 367: Mucho Calibre</title>
+<pubDate>Wed, 18 Jun 2014 17:56:19 -0700</pubDate>
+<comments>http://twit.tv/ww/367</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<description>
+<![CDATA[
+<p><img src="http://feeds.twit.tv/coverart/ww144videohi.jpg" align="right" hspace="20" vspace="20" border="0" title="Windows Weekly" alt="Windows Weekly"/></p><p><strong>Hosts:</strong> <a href="http://winsupersite.com/">Paul Thurrott</a>, <a href="http://allaboutmicrosoft.com/">Mary Jo Foley</a> and <a href="http://leoville.com/">Leo Laporte</a></p>
+ 
+<p>Battle of the 3D phones, Windows vs Fire, Microsoft Android patents revealed by China, Machine learning as a service, Surface Pr 3 pre-orders shipping, Xbox One update coming in July, bad IE social-media promotions, and more. </p>
+ 
+<p>Download or subscribe to this show at <a href="http://twit.tv/ww">twit.tv/ww</a>.</p>
+ 
+<p>We invite you to read, add to, and amend our <a href="http://wiki.twit.tv/wiki/Windows_Weekly_367">show notes</a>.</p>
+ 
+<p>Check out Paul's blog at the <a href="http://winsupersite.com/">SuperSite for Windows</a>.</p>
+ 
+<p>Check out Mary Jo's blog at the <a href="http://allaboutmicrosoft.com/">AllAboutMicrosoft.com</a>.</p>
+ 
+<p>Thanks to <a href="http://www.cachefly.com/">Cachefly</a> for the bandwidth for this show. The Windows Weekly theme music is courtesy of <a href="http://penmachine.com/">Derek K. Miller</a>.</p>
+ 
+<p><strong>Running time:</strong> 1:58:18</p>
+]]>
+</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0367/ww0367_h264m_864x480_500.mp4</guid>
+<itunes:subtitle>Windows Phone vs. Fire Phone</itunes:subtitle>
+<itunes:summary>
+Hosts: Paul Thurrott, Mary Jo Foley and Leo Laporte
+ 
+Battle of the 3D phones, Windows vs Fire, Microsoft Android patents revealed by China, Machine learning as a service, Surface Pr 3 pre-orders shipping, Xbox One update coming in July, bad IE social-media promotions, and more. 
+ 
+Download or subscribe to this show at twit.tv/ww.
+ 
+We invite you to read, add to, and amend our show notes.
+ 
+Check out Paul's blog at the SuperSite for Windows.
+ 
+Check out Mary Jo's blog at the AllAboutMicrosoft.com.
+ 
+Thanks to Cachefly for the bandwidth for this show. The Windows Weekly theme music is courtesy of Derek K. Miller.
+ 
+Running time: 1:58:18
+</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:55:11</itunes:duration>
+<link>http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0367/ww0367_h264m_864x480_500.mp4</link>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0367/ww0367_h264m_864x480_500.mp4" length="522481328" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0367/ww0367_h264m_864x480_500.mp4" fileSize="522481328" type="video/mp4" medium="video">
+<media:credit role="actor">Mary Jo Foley</media:credit>
+<media:credit role="actor">Leo Laporte</media:credit>
+<media:credit role="actor">Paul Thurrott</media:credit>
+<media:credit role="producer">Tony Wang</media:credit>
+<media:credit role="director">Leo Laporte</media:credit>
+<media:credit role="editor">Jason Howell</media:credit>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:icra">r (cz 1 lz 1 nz 1 vz 1 oz 1)</media:rating>
+</media:content>
+</item>
+<item>
+<title>WW 366: An Explosion of Stupidity</title>
+<pubDate>Wed, 11 Jun 2014 16:09:50 -0700</pubDate>
+<comments>http://twit.tv/ww/366</comments>
+<itunes:author>TWiT</itunes:author>
+<author>leo@twit.tv (Leo Laporte)</author>
+<category>Technology</category>
+<description>
+<![CDATA[
+<p><img src="http://feeds.twit.tv/coverart/ww144videohi.jpg" align="right" hspace="20" vspace="20" border="0" title="Windows Weekly" alt="Windows Weekly"/></p><p><strong>Hosts:</strong> <a href="http://winsupersite.com/">Paul Thurrott</a>, <a href="http://allaboutmicrosoft.com/">Mary Jo Foley</a> and <a href="http://leoville.com/">Leo Laporte</a></p>
+ 
+<p>Microsoft Xbox One at E3, Windows 8.1 update, Surface Pro 3 ads, new windows phones, and more. </p>
+ 
+<p>Download or subscribe to this show at <a href="http://twit.tv/ww">twit.tv/ww</a>.</p>
+ 
+<p>We invite you to read, add to, and amend our <a href="http://wiki.twit.tv/wiki/Windows_Weekly_366">show notes</a>.</p>
+ 
+<p>Check out Paul's blog at the <a href="http://winsupersite.com/">SuperSite for Windows</a>.</p>
+ 
+<p>Check out Mary Jo's blog at the <a href="http://allaboutmicrosoft.com/">AllAboutMicrosoft.com</a>.</p>
+ 
+<p>Thanks to <a href="http://www.cachefly.com/">Cachefly</a> for the bandwidth for this show. The Windows Weekly theme music is courtesy of <a href="http://penmachine.com/">Derek K. Miller</a>.</p>
+ 
+<p><strong>Running time:</strong> 1:58:18</p>
+]]>
+</description>
+<guid isPermaLink="false">http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0366/ww0366_h264m_864x480_500.mp4</guid>
+<itunes:subtitle>Microsoft at E3 2014</itunes:subtitle>
+<itunes:summary>
+Hosts: Paul Thurrott, Mary Jo Foley and Leo Laporte
+ 
+Microsoft Xbox One at E3, Windows 8.1 update, Surface Pro 3 ads, new windows phones, and more. 
+ 
+Download or subscribe to this show at twit.tv/ww.
+ 
+We invite you to read, add to, and amend our show notes.
+ 
+Check out Paul's blog at the SuperSite for Windows.
+ 
+Check out Mary Jo's blog at the AllAboutMicrosoft.com.
+ 
+Thanks to Cachefly for the bandwidth for this show. The Windows Weekly theme music is courtesy of Derek K. Miller.
+ 
+Running time: 1:58:18
+</itunes:summary>
+<itunes:explicit>no</itunes:explicit>
+<itunes:duration>1:58:18</itunes:duration>
+<link>http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0366/ww0366_h264m_864x480_500.mp4</link>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0366/ww0366_h264m_864x480_500.mp4" length="536601342" type="video/mp4"/>
+<media:content url="http://www.podtrac.com/pts/redirect.mp4/twit.cachefly.net/video/ww/ww0366/ww0366_h264m_864x480_500.mp4" fileSize="536601342" type="video/mp4" medium="video">
+<media:credit role="actor">Mary Jo Foley</media:credit>
+<media:credit role="actor">Leo Laporte</media:credit>
+<media:credit role="actor">Paul Thurrott</media:credit>
+<media:credit role="producer">Tony Wang</media:credit>
+<media:credit role="director">Leo Laporte</media:credit>
+<media:credit role="editor">Jason Howell</media:credit>
+<media:rating scheme="urn:simple">nonadult</media:rating>
+<media:rating scheme="urn:icra">r (cz 1 lz 1 nz 1 vz 1 oz 1)</media:rating>
+</media:content>
+</item>
+</channel>
+</rss>

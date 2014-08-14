@@ -2,7 +2,10 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+    <!--<![endif]-->
+
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -10,35 +13,62 @@
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
         <link href='http://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
+        <!-- bower:css -->
+        <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" />
+        <!-- endbower -->
         <link rel="stylesheet" href="css/main.css">
 
-    </head>
-    <body>
-        <div class="wrapper">
-           <header>Windows Weekly</header>
-<div id="podCastScroll"></div>
-        </div>
-   
-         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
 
-        <script src="js/vendor/bootstrap.min.js"></script>
+    </head>
+
+    <body>
+       
+
+
+
+        <div class="container-fluid">
+            <div class="row">
+            <div class="col-md-12"> <header>Windows Weekly</header></div>
+                <div class="col col-md-4">
+                    <img src="http://feeds.twit.tv/coverart/ww600videohi.jpg" id='mainImg'>
+                </div>
+                <div class="col col-md-3">
+                    <p>Each week, Windows expert Paul Thurrott of the SuperSite for Windows and Mary Jo Foley of All About Microsoft talk about Windows 8 and all things Microsoft.</p>
+                    <p>
+                        A weekly look at all things Microsoft, including Windows, Windows Phone, Office, Xbox, and more, from two of the foremost Windows watchers in the world, Paul Thurrott of the Super Site for Windows and Mary Jo Foley of All About Microsoft. Records live at http://live.twit.tv/ every Wednesday at 11:00am PT/2:00pm ET.
+                    </p>
+                </div>
+                <div class="col col-md-5" id="podList"></div>
+            </div>
+        </div>
+
+        <!-- bower:js -->
+        <script src="bower_components/jquery/dist/jquery.js"></script>
+        <script src="bower_components/bootstrap/dist/js/bootstrap.js"></script>
+        <!-- endbower -->
 
         <script src="js/main.js"></script>
         <!-- Piwik -->
         <script type="text/javascript">
-            var _paq = _paq || [];
-            _paq.push(["trackPageView"]);
-            _paq.push(["enableLinkTracking"]);
+        var _paq = _paq || [];
+        _paq.push(["trackPageView"]);
+        _paq.push(["enableLinkTracking"]);
 
-            (function () {
-                var u = (("https:" == document.location.protocol) ? "https" : "http") + "://piwik.lawrencetechlive.com/";
-                _paq.push(["setTrackerUrl", u + "piwik.php"]);
-                _paq.push(["setSiteId", "30"]);
-                var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")[0]; g.type = "text/javascript";
-                g.defer = true; g.async = true; g.src = u + "piwik.js"; s.parentNode.insertBefore(g, s);
-            })();
+        (function() {
+            var u = (("https:" == document.location.protocol) ? "https" : "http") + "://piwik.lawrencetechlive.com/";
+            _paq.push(["setTrackerUrl", u + "piwik.php"]);
+            _paq.push(["setSiteId", "30"]);
+            var d = document,
+                g = d.createElement("script"),
+                s = d.getElementsByTagName("script")[0];
+            g.type = "text/javascript";
+            g.defer = true;
+            g.async = true;
+            g.src = u + "piwik.js";
+            s.parentNode.insertBefore(g, s);
+        })();
         </script>
         <!-- End Piwik Code -->
     </body>
+
 </html>

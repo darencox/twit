@@ -1,0 +1,21 @@
+{
+  "name": "twit",
+  "version": "0.0.0",
+  "homepage": "https://github.com/helixten/twit",
+  "authors": [
+    "Zubair Lawrence <zubair@lizardpro.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0"
+  }
+}
